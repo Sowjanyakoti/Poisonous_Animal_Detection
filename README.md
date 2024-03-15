@@ -1,1 +1,1 @@
-# Sowjanyakoti-Poisonous_Animal_Detection
+# Poisonous_Animal_Detection
